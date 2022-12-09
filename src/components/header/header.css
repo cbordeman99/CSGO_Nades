@@ -1,0 +1,27 @@
+#header {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #363636;
+  position: relative;
+  width: 100%;
+  display: block;
+}
+
+.headerEle {
+  float: left;
+}
+
+.headerEle a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+.headerEle Link:hover {
+  color: red;
+}

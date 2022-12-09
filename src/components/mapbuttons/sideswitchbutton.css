@@ -1,0 +1,11 @@
+.SideSwitchButton {
+  height: 45px;
+  width: 45px;
+  border-color: black;
+  background-color: #151515;
+}
+
+.SideSwitchButton:hover {
+  background-color: #363636;
+  cursor: pointer;
+}

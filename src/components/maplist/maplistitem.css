@@ -1,0 +1,28 @@
+.MapListItem {
+  color: white;
+  font-size: 20px;
+  text-align: left;
+  margin: 0;
+  display: inline-block;
+  width: 150px;
+  height: 45px;
+  display: flex;
+  flex-direction: column;
+  background-color: #363636;
+  transition-duration: 0.1s;
+}
+
+.MapListItem {
+  border: 1px solid #000;
+}
+
+.MapListItem:hover {
+  border-color: #fff;
+  background-color: #1f1f1f;
+  cursor: pointer;
+}
+
+.MapIcon {
+  width: 24px;
+  height: 24px;
+}

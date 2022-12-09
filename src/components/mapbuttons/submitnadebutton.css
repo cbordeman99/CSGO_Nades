@@ -1,0 +1,7 @@
+.SubmitNadeButton {
+  background-color: #4caf50;
+}
+
+.SubmitNadeButton:hover {
+  cursor: pointer;
+}

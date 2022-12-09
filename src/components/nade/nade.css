@@ -1,0 +1,18 @@
+.Nade {
+  stroke: #909494;
+  opacity: 0.6;
+  display: inline-block;
+  position: absolute;
+}
+
+.Nade:hover {
+  cursor: pointer;
+  opacity: 1;
+}
+
+.Line {
+  stroke-width: 10;
+}
+
+.Circle {
+}

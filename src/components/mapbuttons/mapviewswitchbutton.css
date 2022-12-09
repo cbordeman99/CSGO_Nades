@@ -1,0 +1,8 @@
+.MapViewSwitchButton {
+  width: 32px;
+  height: 32px;
+}
+
+.MapViewSwitchButton:hover {
+  cursor: pointer;
+}

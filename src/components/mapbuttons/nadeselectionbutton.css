@@ -1,0 +1,13 @@
+.NadeSelectionButton {
+  height: 45px;
+  width: 45px;
+  border: 1px solid black;
+  background-color: #151515;
+  display: flex;
+  flex-direction: column;
+}
+
+.NadeSelectionButton:hover {
+  background-color: #363636;
+  cursor: pointer;
+}
